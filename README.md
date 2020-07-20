@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi there I am Human, My Name Agung👋
 
-**agungribowo/agungribowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ...PHP
+- 🌱 I’m currently learning ...JavaScript
+- 👯 I’m looking to collaborate on ...JavaScript
+
+<!-- **agungribowo/agungribowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
