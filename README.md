@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on ...PHP
 - 🌱 I’m currently learning ...JavaScript
 
+[![wakatime](https://wakatime.com/badge/user/4166687a-3331-49e3-91e8-8f4f3c7e77b3.svg)](https://wakatime.com/@4166687a-3331-49e3-91e8-8f4f3c7e77b3)
+
 [![@agungribowo's Holopin board](https://holopin.me/agungribowo)](https://holopin.io/@agungribowo)
 
 <!-- **agungribowo/agungribowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
