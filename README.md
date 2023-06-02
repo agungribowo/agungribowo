@@ -1,8 +1,14 @@
 ### Hi there I am Human, My Name Agung👋
 
-- 🔭 I’m currently working on ...PHP ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-- 🌱 I’m currently learning ...JavaScript ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- Interest in ReacJs ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- 🔭 I’m currently working on ...PHP 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+- 🌱 I’m currently learning ...JavaScript 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+- Interest in ReacJs 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 
 [![wakatime](https://wakatime.com/badge/user/4166687a-3331-49e3-91e8-8f4f3c7e77b3.svg)](https://wakatime.com/@4166687a-3331-49e3-91e8-8f4f3c7e77b3)
 
