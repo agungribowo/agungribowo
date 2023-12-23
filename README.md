@@ -1,5 +1,5 @@
-### Hi there I am Human, My Name Agung👋
-
+### Hi there 👋
+<!--
 - 🔭 I’m currently working on ...PHP : 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) , ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) , ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -11,13 +11,16 @@
 
 - Daily use : 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+-->
 
-- Familiar with : 
+<!-- Familiar with : 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) , ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) , ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) , 
-
+--> 
 [![wakatime](https://wakatime.com/badge/user/4166687a-3331-49e3-91e8-8f4f3c7e77b3.svg)](https://wakatime.com/@4166687a-3331-49e3-91e8-8f4f3c7e77b3)
 
+<!--
 [![@agungribowo's Holopin board](https://holopin.me/agungribowo)](https://holopin.io/@agungribowo)
+-->
 
 <!-- **agungribowo/agungribowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
